@@ -1,0 +1,1 @@
+# Practica-prolog-1
